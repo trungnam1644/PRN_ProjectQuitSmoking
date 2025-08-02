@@ -1,0 +1,1346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\smokingstatusview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\smokingstatusview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\smokingstatusview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\smokingstatusview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\coachdashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\coachdashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\coachlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\coachlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\accountmanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\accountmanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\chatview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\chatview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\registerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\registerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\smokingchartview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\smokingchartview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\quitplanview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\quitplanview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\profileview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\profileview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\dashboardadminview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\dashboardadminview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF863F4-F15D-436A-9102-D546CDC17CE3}|BusinessObjects\\BusinessObjects.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\businessobjects\\quitplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF863F4-F15D-436A-9102-D546CDC17CE3}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\quitplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\converters\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\converters\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\converters\\datetimetorelativetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\converters\\datetimetorelativetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\converters\\datetostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\converters\\datetostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\converters\\inversebooltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\converters\\inversebooltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\converters\\inversezerotovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\converters\\inversezerotovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\converters\\messagealignmentmulticonverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\converters\\messagealignmentmulticonverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0728167A-91A8-4211-99BC-95AD766D9481}|Services\\Services.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\services\\iquitplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0728167A-91A8-4211-99BC-95AD766D9481}|Services\\Services.csproj|solutionrelative:services\\iquitplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0728167A-91A8-4211-99BC-95AD766D9481}|Services\\Services.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\services\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0728167A-91A8-4211-99BC-95AD766D9481}|Services\\Services.csproj|solutionrelative:services\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\repositories\\ismokingstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ismokingstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0728167A-91A8-4211-99BC-95AD766D9481}|Services\\Services.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\services\\ichatmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0728167A-91A8-4211-99BC-95AD766D9481}|Services\\Services.csproj|solutionrelative:services\\ichatmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0728167A-91A8-4211-99BC-95AD766D9481}|Services\\Services.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\services\\ismokingstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0728167A-91A8-4211-99BC-95AD766D9481}|Services\\Services.csproj|solutionrelative:services\\ismokingstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\dataaccesslayout\\quitplandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|solutionrelative:dataaccesslayout\\quitplandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\dataaccesslayout\\chatmessagedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|solutionrelative:dataaccesslayout\\chatmessagedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\dataaccesslayout\\communitypostdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|solutionrelative:dataaccesslayout\\communitypostdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\dataaccesslayout\\commentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|solutionrelative:dataaccesslayout\\commentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\dataaccesslayout\\coachdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|solutionrelative:dataaccesslayout\\coachdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\dataaccesslayout\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|solutionrelative:dataaccesslayout\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF863F4-F15D-436A-9102-D546CDC17CE3}|BusinessObjects\\BusinessObjects.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\businessobjects\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF863F4-F15D-436A-9102-D546CDC17CE3}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF863F4-F15D-436A-9102-D546CDC17CE3}|BusinessObjects\\BusinessObjects.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\businessobjects\\communitypost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF863F4-F15D-436A-9102-D546CDC17CE3}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\communitypost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\dataaccesslayout\\smokingstatusdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|solutionrelative:dataaccesslayout\\smokingstatusdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\dataaccesslayout\\membershipdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BB78AB-733A-45DE-AD1D-C416E368846A}|DataAccessLayout\\DataAccessLayout.csproj|solutionrelative:dataaccesslayout\\membershipdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\membershipview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\membershipview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\profileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\profileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF863F4-F15D-436A-9102-D546CDC17CE3}|BusinessObjects\\BusinessObjects.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\businessobjects\\smokingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF863F4-F15D-436A-9102-D546CDC17CE3}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\smokingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\quitplanview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\quitplanview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\viewmodels\\communityviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\communityviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\viewmodels\\communitypostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\communitypostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\chatview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\chatview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\viewmodels\\coachlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\coachlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\viewmodels\\coachchatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\coachchatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\viewmodels\\quitplanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\quitplanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\viewmodels\\quitplanstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\quitplanstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\viewmodels\\smokingstatusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\smokingstatusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF863F4-F15D-436A-9102-D546CDC17CE3}|BusinessObjects\\BusinessObjects.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\businessobjects\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF863F4-F15D-436A-9102-D546CDC17CE3}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\viewmodels\\smokingchartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\smokingchartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0728167A-91A8-4211-99BC-95AD766D9481}|Services\\Services.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\services\\smokingstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0728167A-91A8-4211-99BC-95AD766D9481}|Services\\Services.csproj|solutionrelative:services\\smokingstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\repositories\\smokingstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|solutionrelative:repositories\\smokingstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF863F4-F15D-436A-9102-D546CDC17CE3}|BusinessObjects\\BusinessObjects.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\businessobjects\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF863F4-F15D-436A-9102-D546CDC17CE3}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\dashboardadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\dashboardadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\repositories\\quitplanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|solutionrelative:repositories\\quitplanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\repositories\\iquitplanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iquitplanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF863F4-F15D-436A-9102-D546CDC17CE3}|BusinessObjects\\BusinessObjects.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\businessobjects\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF863F4-F15D-436A-9102-D546CDC17CE3}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|solutionrelative:repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\repositories\\communitypostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|solutionrelative:repositories\\communitypostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\repositories\\ichatmessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ichatmessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4462C92B-5D13-4845-8295-D7DA530C8D04}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0728167A-91A8-4211-99BC-95AD766D9481}|Services\\Services.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\services\\chatmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0728167A-91A8-4211-99BC-95AD766D9481}|Services\\Services.csproj|solutionrelative:services\\chatmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\communityview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\communityview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\coachlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\coachlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\coachdashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\coachdashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\smokingchartview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\smokingchartview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\accountmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\accountmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\viewmodels\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|d:\\prn202\\smokingcessationsupport\\smokingcessationsupport\\wpfapp\\viewmodels\\dashboardadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F67E6E-810D-4D77-BB70-E6BF48C59FAB}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\dashboardadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoachDashboardView.xaml.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\CoachDashboardView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\CoachDashboardView.xaml.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\CoachDashboardView.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\CoachDashboardView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:15:24.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoachListView.xaml.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\CoachListView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\CoachListView.xaml.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\CoachListView.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\CoachListView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:15:23.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T13:20:40.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmokingStatusView.xaml.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\SmokingStatusView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\SmokingStatusView.xaml.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\SmokingStatusView.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\SmokingStatusView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:53:47.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmokingStatusView.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\SmokingStatusView.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\SmokingStatusView.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\SmokingStatusView.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\SmokingStatusView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:43:21.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountManagementView.xaml.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\AccountManagementView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\AccountManagementView.xaml.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\AccountManagementView.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\AccountManagementView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:15:26.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatView.xaml.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\ChatView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\ChatView.xaml.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\ChatView.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\ChatView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:15:20.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterView.xaml.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\RegisterView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\RegisterView.xaml.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\RegisterView.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\RegisterView.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:14:54.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SmokingChartView.xaml.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\SmokingChartView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\SmokingChartView.xaml.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\SmokingChartView.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\SmokingChartView.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:14:47.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuitPlanView.xaml.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\QuitPlanView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\QuitPlanView.xaml.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\QuitPlanView.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\QuitPlanView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:14:45.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfileView.xaml.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\ProfileView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\ProfileView.xaml.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\ProfileView.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\ProfileView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:14:39.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardAdminView.xaml.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\DashboardAdminView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\DashboardAdminView.xaml.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\DashboardAdminView.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\DashboardAdminView.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:14:35.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Converters\\BoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Converters\\BoolToVisibilityConverter.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Converters\\BoolToVisibilityConverter.cs",
+              "RelativeToolTip": "WPFApp\\Converters\\BoolToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:24:48.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DateToStringConverter.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Converters\\DateToStringConverter.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Converters\\DateToStringConverter.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Converters\\DateToStringConverter.cs",
+              "RelativeToolTip": "WPFApp\\Converters\\DateToStringConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:24:42.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InverseBoolToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Converters\\InverseBoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Converters\\InverseBoolToVisibilityConverter.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Converters\\InverseBoolToVisibilityConverter.cs",
+              "RelativeToolTip": "WPFApp\\Converters\\InverseBoolToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:24:39.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InverseZeroToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Converters\\InverseZeroToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Converters\\InverseZeroToVisibilityConverter.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Converters\\InverseZeroToVisibilityConverter.cs",
+              "RelativeToolTip": "WPFApp\\Converters\\InverseZeroToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:24:37.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuitPlan.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\BusinessObjects\\QuitPlan.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\QuitPlan.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\BusinessObjects\\QuitPlan.cs",
+              "RelativeToolTip": "BusinessObjects\\QuitPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:58:31.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardView.xaml.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\DashboardView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\DashboardView.xaml.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\DashboardView.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\DashboardView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:02:32.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DateTimeToRelativeTimeConverter.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Converters\\DateTimeToRelativeTimeConverter.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Converters\\DateTimeToRelativeTimeConverter.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Converters\\DateTimeToRelativeTimeConverter.cs",
+              "RelativeToolTip": "WPFApp\\Converters\\DateTimeToRelativeTimeConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:24:13.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MessageAlignmentMultiConverter.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Converters\\MessageAlignmentMultiConverter.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Converters\\MessageAlignmentMultiConverter.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Converters\\MessageAlignmentMultiConverter.cs",
+              "RelativeToolTip": "WPFApp\\Converters\\MessageAlignmentMultiConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:24:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:23:35.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IQuitPlanService.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Services\\IQuitPlanService.cs",
+              "RelativeDocumentMoniker": "Services\\IQuitPlanService.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Services\\IQuitPlanService.cs",
+              "RelativeToolTip": "Services\\IQuitPlanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:23:32.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMembershipService.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Services\\IMembershipService.cs",
+              "RelativeDocumentMoniker": "Services\\IMembershipService.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Services\\IMembershipService.cs",
+              "RelativeToolTip": "Services\\IMembershipService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:23:30.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IChatMessageService.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Services\\IChatMessageService.cs",
+              "RelativeDocumentMoniker": "Services\\IChatMessageService.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Services\\IChatMessageService.cs",
+              "RelativeToolTip": "Services\\IChatMessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:20:34.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CommunityPostDAO.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\CommunityPostDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayout\\CommunityPostDAO.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\CommunityPostDAO.cs",
+              "RelativeToolTip": "DataAccessLayout\\CommunityPostDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:18:17.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ChatMessageDAO.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\ChatMessageDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayout\\ChatMessageDAO.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\ChatMessageDAO.cs",
+              "RelativeToolTip": "DataAccessLayout\\ChatMessageDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:18:20.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QuitPlanDAO.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\QuitPlanDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayout\\QuitPlanDAO.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\QuitPlanDAO.cs",
+              "RelativeToolTip": "DataAccessLayout\\QuitPlanDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:08:15.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ISmokingStatusRepository.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\ISmokingStatusRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ISmokingStatusRepository.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\ISmokingStatusRepository.cs",
+              "RelativeToolTip": "Repositories\\ISmokingStatusRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:57:46.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ISmokingStatusService.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Services\\ISmokingStatusService.cs",
+              "RelativeDocumentMoniker": "Services\\ISmokingStatusService.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Services\\ISmokingStatusService.cs",
+              "RelativeToolTip": "Services\\ISmokingStatusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:55:44.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CommentDAO.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\CommentDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayout\\CommentDAO.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\CommentDAO.cs",
+              "RelativeToolTip": "DataAccessLayout\\CommentDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:18:16.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CoachDAO.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\CoachDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayout\\CoachDAO.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\CoachDAO.cs",
+              "RelativeToolTip": "DataAccessLayout\\CoachDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:18:14.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayout\\AppDbContext.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccessLayout\\AppDbContext.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAALMAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T13:25:49.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\BusinessObjects\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\ChatMessage.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\BusinessObjects\\ChatMessage.cs",
+              "RelativeToolTip": "BusinessObjects\\ChatMessage.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:58:18.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CommunityPost.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\BusinessObjects\\CommunityPost.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\CommunityPost.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\BusinessObjects\\CommunityPost.cs",
+              "RelativeToolTip": "BusinessObjects\\CommunityPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:19:59.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MembershipDAO.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\MembershipDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayout\\MembershipDAO.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\MembershipDAO.cs",
+              "RelativeToolTip": "DataAccessLayout\\MembershipDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:19:01.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SmokingStatusDAO.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\SmokingStatusDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayout\\SmokingStatusDAO.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\DataAccessLayout\\SmokingStatusDAO.cs",
+              "RelativeToolTip": "DataAccessLayout\\SmokingStatusDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:37:48.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MembershipView.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\MembershipView.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\MembershipView.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\MembershipView.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\MembershipView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:45:28.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProfileView.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\ProfileView.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\ProfileView.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\ProfileView.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\ProfileView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:47:11.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DashboardView.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\DashboardView.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\DashboardView.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\DashboardView.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\DashboardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:42:00.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CommunityViewModel.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\CommunityViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\CommunityViewModel.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\CommunityViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\CommunityViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:02:00.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SmokingStatus.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\BusinessObjects\\SmokingStatus.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\SmokingStatus.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\BusinessObjects\\SmokingStatus.cs",
+              "RelativeToolTip": "BusinessObjects\\SmokingStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:58:21.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CommunityPostViewModel.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\CommunityPostViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\CommunityPostViewModel.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\CommunityPostViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\CommunityPostViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:01:59.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\LoginView.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\LoginView.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:47:12.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "QuitPlanView.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\QuitPlanView.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\QuitPlanView.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\QuitPlanView.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\QuitPlanView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:44:15.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ChatView.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\ChatView.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\ChatView.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\ChatView.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\ChatView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:46:57.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CoachListViewModel.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\CoachListViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\CoachListViewModel.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\CoachListViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\CoachListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:01:59.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "QuitPlanStage.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\QuitPlanStage.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\QuitPlanStage.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\QuitPlanStage.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\QuitPlanStage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:06:15.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "QuitPlanViewModel.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\QuitPlanViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\QuitPlanViewModel.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\QuitPlanViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\QuitPlanViewModel.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAqwKkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:06:20.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CoachChatViewModel.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\CoachChatViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\CoachChatViewModel.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\CoachChatViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\CoachChatViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:01:19.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\ProfileViewModel.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\ProfileViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\ProfileViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:30:33.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SmokingStatusViewModel.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\SmokingStatusViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\SmokingStatusViewModel.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\SmokingStatusViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\SmokingStatusViewModel.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwGkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:39:19.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Membership.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\BusinessObjects\\Membership.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Membership.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\BusinessObjects\\Membership.cs",
+              "RelativeToolTip": "BusinessObjects\\Membership.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:05:30.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SmokingChartViewModel.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\SmokingChartViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\SmokingChartViewModel.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\SmokingChartViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\SmokingChartViewModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvyIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:40:46.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SmokingStatusService.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Services\\SmokingStatusService.cs",
+              "RelativeDocumentMoniker": "Services\\SmokingStatusService.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Services\\SmokingStatusService.cs",
+              "RelativeToolTip": "Services\\SmokingStatusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:55:09.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SmokingStatusRepository.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\SmokingStatusRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SmokingStatusRepository.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\SmokingStatusRepository.cs",
+              "RelativeToolTip": "Repositories\\SmokingStatusRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:57:14.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\BusinessObjects\\User.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\User.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\BusinessObjects\\User.cs",
+              "RelativeToolTip": "BusinessObjects\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T13:25:17.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DashboardAdminView.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\DashboardAdminView.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\DashboardAdminView.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\DashboardAdminView.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\DashboardAdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:47:13.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Coach.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\BusinessObjects\\Coach.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Coach.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\BusinessObjects\\Coach.cs",
+              "RelativeToolTip": "BusinessObjects\\Coach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:58:14.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CommentRepository.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "Repositories\\CommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:58:08.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IQuitPlanRepository.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\IQuitPlanRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IQuitPlanRepository.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\IQuitPlanRepository.cs",
+              "RelativeToolTip": "Repositories\\IQuitPlanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:06:58.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "QuitPlanRepository.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\QuitPlanRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\QuitPlanRepository.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\QuitPlanRepository.cs",
+              "RelativeToolTip": "Repositories\\QuitPlanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:03:48.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CommunityPostRepository.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\CommunityPostRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CommunityPostRepository.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\CommunityPostRepository.cs",
+              "RelativeToolTip": "Repositories\\CommunityPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:58:01.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IChatMessageRepository.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\IChatMessageRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IChatMessageRepository.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\IChatMessageRepository.cs",
+              "RelativeToolTip": "Repositories\\IChatMessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:58:00.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:57:12.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ChatMessageService.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Services\\ChatMessageService.cs",
+              "RelativeDocumentMoniker": "Services\\ChatMessageService.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\Services\\ChatMessageService.cs",
+              "RelativeToolTip": "Services\\ChatMessageService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:56:57.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RegisterView.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\RegisterView.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\RegisterView.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\RegisterView.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\RegisterView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:47:45.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SmokingChartView.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\SmokingChartView.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\SmokingChartView.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\SmokingChartView.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\SmokingChartView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:47:08.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CoachDashboardView.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\CoachDashboardView.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\CoachDashboardView.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\CoachDashboardView.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\CoachDashboardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:47:05.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CoachListView.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\CoachListView.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\CoachListView.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\CoachListView.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\CoachListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:46:06.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CommunityView.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\CommunityView.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\CommunityView.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\CommunityView.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\CommunityView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:44:48.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AccountManagementView.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\AccountManagementView.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\AccountManagementView.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\AccountManagementView.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\AccountManagementView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:47:17.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:49:44.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\App.xaml",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\App.xaml",
+              "RelativeToolTip": "WPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T00:49:36.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WPFApp\\appsettings.json",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\appsettings.json",
+              "RelativeToolTip": "WPFApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T13:26:55.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\App.xaml.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\App.xaml.cs",
+              "RelativeToolTip": "WPFApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T13:27:33.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:49:46.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ChatViewModel.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\ChatViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\ChatViewModel.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\ChatViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\ChatViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:47:33.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\LoginView.xaml.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T13:25:27.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "DashboardAdminViewModel.cs",
+              "DocumentMoniker": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\DashboardAdminViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\DashboardAdminViewModel.cs",
+              "ToolTip": "D:\\PRN202\\SmokingCessationSupport\\SmokingCessationSupport\\WPFApp\\ViewModels\\DashboardAdminViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\DashboardAdminViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T13:19:42.549Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
